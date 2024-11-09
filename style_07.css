@@ -1,0 +1,18 @@
+.test{
+    border: 2px solid red;
+    padding: 10px;
+}
+
+
+
+
+
+/*  CSS Padding Shorthand
+ 1. padding-top: 10px;
+ 2. padding-right: 10px;
+ 3. padding-bottom: 10px;
+ 4. padding-left: 10px;
+
+ padding: 10px (for all side)
+ padding: 10px 20px (10 px is for top & bottom, 20px is for right and left)
+ */

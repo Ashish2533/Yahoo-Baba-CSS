@@ -1,0 +1,40 @@
+#first{
+    border: 2px solid black;
+    margin-bottom: 30px;
+}
+
+#second{
+    border: 2px solid red;
+    margin-bottom: 30px;
+
+}
+
+/*  In the #third id you need to give a width and check how it works */
+#third{
+    width: 500px;
+    border: 2px solid green;
+    margin: 0 auto 0 auto;
+
+}
+
+
+
+
+/*  CSS Margin Shorthand
+ 1. margin-top: 10px;
+ 2. margin-right: 10px;
+ 3. margin-bottom: 10px;
+ 4. margin-left: 10px;
+
+ margin: 10px (for all side)
+ margin: 10px 20px (10 px is for top & bottom, 20px is for right and left)
+ */
+
+ /* CSS Margin Auto
+margin-top: 10px;
+margin-right: auto;
+margin-bottom: 10px;
+margin-left: auto;
+ 
+ 
+ */

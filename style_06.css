@@ -1,0 +1,9 @@
+p{
+    border: 3px solid red;
+    outline: 3px solid blue;
+}
+
+
+/* CSS Outline Shorthand
+outline: 3px solid red; (width, style & color it must be in this sequence)
+ */

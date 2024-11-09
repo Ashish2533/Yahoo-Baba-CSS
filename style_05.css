@@ -1,0 +1,13 @@
+h1{
+    border-width: 3px;
+    border-style: solid dashed dotted groove;
+    border-color: red;
+}
+/* CSS Border Shorthand
+border: 3px solid red; (width, style & color it must be in this sequence)
+ */
+
+ /* For giving only one side style: 
+   border-bottom: 3px solid red;
+   border-top: 3px solid red;
+  */

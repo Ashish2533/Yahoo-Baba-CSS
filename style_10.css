@@ -1,0 +1,14 @@
+#first{
+    width: 500px;
+    min-height: 200px;
+    border: 1px solid red;
+    margin-bottom: 30px;
+}
+
+
+#second{
+    width: 500px;
+    min-height: 200px;
+    max-height: 250px;
+    border: 1px solid blue;
+}
